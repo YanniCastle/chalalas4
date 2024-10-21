@@ -9,12 +9,12 @@
 </head>
 
 <body>
-  <h1>Hello</h1>
+  <h1>Chalalas 4</h1>
   <h2>Espacio de pruebas online (DEMO)</h2>
   <!--Galeria-->
   <div class="row">
     <div class="column">
-      <img alt="photo 1" src="img/audifonos bluetooh.jpg" />
+      <a href="proximamente.php"><img alt="photo 1" src="img/audifonos bluetooh.jpg" /></a>
       <img alt="photo 2" src="img/cargador_sony_1.jpg" />
       <img alt="photo 3" src="img/IMG_20221112_111654_742.jpg" />
       <img alt="photo 4" src="img/IMG_20230404_173830_587.jpg" />
@@ -34,7 +34,7 @@
       <img alt="photo 12" src="img/IMG_20230531_003537_082.jpg" />
       <img alt="photo 13" src="img/IMG_20230603_023752_895.jpg" />
       <img alt="photo 14" src="img/IMG_20230626_201617_060.jpg" />
-      <a href="proximamente.php"><img alt="photo 15" src="img/lampara_amarilla_3.jpg" /></a>
+      <img alt="photo 15" src="img/lampara_amarilla_3.jpg" />
     </div>
 
     <div class="column">
@@ -42,7 +42,7 @@
       <img alt="photo 17" src="img/Marzo 2023 Zona de trabajo Yanni.jpg" />
       <img alt="photo 18" src="img/Screenshot_20230305-153431.png" />
       <img alt="photo 19" src="img/Screenshot_20230324-190323.png" />
-      <a href="proximamente.php"><img alt="photo 20" src="img/vasos de cafe desechables.jpg" /></a>
+      <img alt="photo 20" src="img/vasos de cafe desechables.jpg" />
     </div>
   </div>
 </body>
