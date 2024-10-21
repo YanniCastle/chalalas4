@@ -10,7 +10,7 @@
 
 <body>
   <h1>Hello</h1>
-  <h2>Probando funcion de publico a privado</h2>
+  <h2>Espacio de pruebas online (DEMO)</h2>
   <!--Galeria-->
   <div class="row">
     <div class="column">
