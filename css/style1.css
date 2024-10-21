@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background: rgb(169, 223, 158);
+  background: rgb(114, 211, 95);
 }
 body {
   margin: 0;
@@ -23,14 +23,21 @@ img {
 .column img{
   margin-top: 2px;
 }
+
+/*Mustra galeria en Tablet*/
 @media (min-width: 600px) and (max-width: 800px){
   .column{
-    flex: 33%;
+  margin-top: -10px;
+  flex: 33%;
+  padding: 2px;
   }
 }
-/*Mustra galeria en dos columnasen moto C*/
+
+/*Mustra galeria en dos columnas en moto C*/
   @media(min-width: 275px) and (max-width: 600px){
   .column{
-    flex: 50%;
+  margin-top: -10px;
+  flex: 50%;
+  padding: 2px;
   }
 }
