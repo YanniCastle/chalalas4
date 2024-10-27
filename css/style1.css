@@ -28,8 +28,8 @@ img {
 }
 /*Mustra galeria en dos columnasen moto C*/
   @media(min-width: 275px) and (max-width: 600px){
-    body {
-      background: black;
+  body {
+  background: black;
   margin: 0;
   padding: 0;
 }
