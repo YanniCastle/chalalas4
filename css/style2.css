@@ -31,6 +31,9 @@ img {
   * {
   background: black;
   }
+  h1 {
+    color: #f7f3f3;
+  }
   .column{
     flex: 50%;
     padding: 5px;
