@@ -14,7 +14,7 @@
   <div class="row">
     <div class="column">
       <img alt="photo 1" src="img/audifonos bluetooh.jpg" />
-      <img alt="photo 2" src="img/cargador_sony_1.jpg" />
+      <img alt="sin imagen" src="" />
       <img alt="photo 3" src="img/IMG_20221112_111654_742.jpg" />
       <img alt="photo 4" src="img/IMG_20230404_173830_587.jpg" />
       <img alt="photo 5" src="img/IMG_20230411_020301_788.jpg" />
