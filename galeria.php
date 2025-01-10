@@ -32,8 +32,7 @@
       <img alt="photo 12" src="img/IMG_20230531_003537_082.jpg" />
       <img alt="photo 13" src="img/IMG_20230603_023752_895.jpg" />
       <img alt="photo 14" src="img/IMG_20230626_201617_060.jpg" />
-      <a href="proximamente.php"><img alt="photo 15" src="img/lampara_amarilla_3.jpg" />
-        << /a>
+      <a href="proximamente.php"><img alt="photo 15" src="img/lampara_amarilla_3.jpg" /></a>
     </div>
 
     <div class="column">
