@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background: rgb(62, 106, 189);
+  background: rgb(22, 133, 72);
 }
 body {
   margin: 0;
@@ -28,7 +28,14 @@ img {
 }
 /*Mustra galeria en dos columnasen moto C*/
   @media(min-width: 275px) and (max-width: 600px){
+  * {
+  background: black;
+  }
+  h1 {
+    color: #f7f3f3;
+  }
   .column{
     flex: 50%;
+    padding: 5px;
   }
 }
