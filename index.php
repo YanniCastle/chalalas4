@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="" />
   <title>chalalas4</title>
 </head>
-
+<h1>Actualizando chalalas4</h1>
 <body>
   <?php include 'galeria.php' ?>
 
